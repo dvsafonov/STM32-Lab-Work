@@ -9,4 +9,8 @@ LAB3 Button + external interrupt, LED lights UP, lights Down
 
 LAB4 Many LEDs blink different period
 
-LAB5.1 PWM LED and LAB5.2 PWM two servo-motors
+LAB5.1 PWM LED
+
+LAB5.2 and LAB5.3 PWM two servo-motors (5.3 with smooth different direction)
+
+
